@@ -134,5 +134,3 @@ const init = function () {
   addRecipeView.addHundlerUpload(controlUpload);
 };
 init();
-// window.addEventListener('hashchange', controlRecipes);
-// window.addEventListener('load', controlRecipes);
